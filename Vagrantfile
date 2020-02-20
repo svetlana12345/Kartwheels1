@@ -33,3 +33,7 @@ config.vm.define "box1" do |box1|
       end
 
 end
+
+#You need to add missing keyword 'end'- see below.  Comment by Svetlana Gluhova on 2-20-2020
+
+end
